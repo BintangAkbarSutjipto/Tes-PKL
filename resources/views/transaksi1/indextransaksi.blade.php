@@ -47,6 +47,7 @@
 											<tr>
 												<th>Id</th>
 												<th>Name</th>
+                                                <th>Date</th>
 												<th>Price</th>
 												<th>Action</th>
 											</tr>
